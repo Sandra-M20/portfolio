@@ -1,0 +1,14 @@
+Day 1
+
+implemented HTML CSS 
+created a homepage
+
+Day 2
+tried to implement the sections 
+challenges:allignment issue
+
+Day3
+implemented Javascript
+
+Day 4
+enchanced the css 
